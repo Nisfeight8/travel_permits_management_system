@@ -16,7 +16,7 @@ A management system for travel permits. An employee will create a travel request
 * [Hibernate Jpa] - for the communication with database
 
 ### Installation & Run
-tpms_client:
+tpms_app:
 
 Install the dependencies and start the server.
 
@@ -26,7 +26,7 @@ $ npm install
 $ npm run serve
 ```
 
-TPS_backend:
+tpms_api:
 ```sh
 $ cd tpms_api
 $ mvn spring boot:run
