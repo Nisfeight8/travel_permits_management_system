@@ -21,7 +21,7 @@ tpms_client:
 Install the dependencies and start the server.
 
 ```sh
-$ cd tpms_client
+$ cd tpms_app
 $ npm install
 $ npm run serve
 ```
